@@ -23,7 +23,8 @@ Olá, sou Iury Gabriel Rezende, tenho 20 anos e atuo na área de **suporte de TI
 - **Banco de Dados**:
   - SQL
   - MySQL
-  -PostrgreSQL
+  
+  - PostrgreSQL
 
 ## Objetivos
 Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades em desenvolvimento de software. Meu objetivo é contribuir para projetos inovadores, criar aplicações impactantes e me tornar um engenheiro de software de referência.
