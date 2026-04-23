@@ -9,16 +9,25 @@ Olá, sou Iury Gabriel Rezende, tenho 20 anos e atuo na área de **suporte de TI
 - 🚀 Aspirante a engenheiro de software, com foco em desenvolver soluções inovadoras e eficientes.
 
 ## Habilidades
-- **Linguagens de Programação**:
+- **Back-end**:
   - C
   - Python
-  - JavaScript
   - Java
+  - Springboot
+  - TypeORM
+  - Prisma
 - **Desenvolvimento Web**:
   - HTML
   - CSS
+  - JavaScript
+- **Em aprendizado**:
+  - React
+  - TypeScript
+  - Nextjs
+  - Tailwind
 - **Outras Tecnologias**:
   - Unity
+  - Arduino
 - **Idiomas**:
   - Inglês (Nível B2)
 - **Banco de Dados**:
