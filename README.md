@@ -3,8 +3,8 @@
   Suporte de TI → Engenheiro de Software em construção 🚀
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IuryRezende&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryRezende&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 ---
 Sobre mim
