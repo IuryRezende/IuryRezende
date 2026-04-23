@@ -1,45 +1,35 @@
-<h1 align="center">Iury Gabriel Rezende</h1>
-<p align="center">
-  Suporte de TI → Engenheiro de Software em construção 🚀
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IuryRezende&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryRezende&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
----
-Sobre mim
-🎓 Graduando em Análise e Desenvolvimento de Sistemas — Unicesumar
-🎓 Técnico em Desenvolvimento de Sistemas — Senai
-💻 Atuo em suporte de TI, com experiência prática em resolução de problemas
-🚀 Foco em me tornar engenheiro de software e construir soluções impactantes
----
-Habilidades
-Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-Outras tecnologias
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-Em aprendizado
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
-Idiomas
-🇧🇷 Português — Nativo  |  🇺🇸 Inglês — B2
----
-<p align="center">
-  <i>Constantemente aprendendo, sempre construindo.</i>
-</p>
+Faça isso, esse é meu atual readme
+# Iury Gabriel Rezende
+Olá, sou Iury Gabriel Rezende, tenho 21 anos e atuo na área de **suporte de TI**. Sou apaixonado por tecnologia e desejo me tornar um **engenheiro de software**.
+## Sobre Mim
+- 🎓 **Graduando** em Análise e Desenvolvimentos de Sistemas na Unicesumar.
+- 🎓 **Estudante** de Desenvolvimento de Sistemas Técnico no **Senai**.
+- 💻 Atualmente trabalho com suporte de TI, adquirindo experiência prática em solução de problemas e suporte técnico.
+- 🚀 Aspirante a engenheiro de software, com foco em desenvolver soluções inovadoras e eficientes.
+## Habilidades
+- **Back-end**:
+  - C
+  - Python
+  - Java
+  - Springboot
+  - TypeORM
+  - Prisma
+- **Desenvolvimento Web**:
+  - HTML
+  - CSS
+  - JavaScript
+- **Em aprendizado**:
+  - React
+  - TypeScript
+  - Nextjs
+  - Tailwind
+- **Outras Tecnologias**:
+  - Unity
+  - Arduino
+- **Idiomas**:
+  - Inglês (Nível B2)
+- **Banco de Dados**:
+  - MySQL
+  - PostrgreSQL
+## Objetivos
+Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades em desenvolvimento de software. Meu objetivo é contribuir para projetos inovadores, criar aplicações impactantes e me tornar um engenheiro de software de referência.
