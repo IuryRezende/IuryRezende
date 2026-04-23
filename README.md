@@ -1,4 +1,3 @@
-Faça isso, esse é meu atual readme
 # Iury Gabriel Rezende
 Olá, sou Iury Gabriel Rezende, tenho 21 anos e atuo na área de **suporte de TI**. Sou apaixonado por tecnologia e desejo me tornar um **engenheiro de software**.
 ## Sobre Mim
