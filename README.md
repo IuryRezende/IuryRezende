@@ -7,12 +7,9 @@ Olá, sou Iury Gabriel Rezende, tenho 21 anos e atuo na área de **suporte de TI
 - 🚀 Aspirante a engenheiro de software, com foco em desenvolver soluções inovadoras e eficientes.
 ## Habilidades
 - **Back-end**:
-  - C
   - Python
   - Java
   - Springboot
-  - TypeORM
-  - Prisma
 - **Desenvolvimento Web**:
   - HTML
   - CSS
@@ -22,13 +19,18 @@ Olá, sou Iury Gabriel Rezende, tenho 21 anos e atuo na área de **suporte de TI
   - TypeScript
   - Nextjs
   - Tailwind
+- **ORM**:
+  - Hibernate
+  - TypeORM
+  - Prisma
+- **Banco de Dados**:
+  - MySQL
+  - PostrgreSQL
 - **Outras Tecnologias**:
   - Unity
   - Arduino
 - **Idiomas**:
   - Inglês (Nível B2)
-- **Banco de Dados**:
-  - MySQL
-  - PostrgreSQL
+
 ## Objetivos
 Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades em desenvolvimento de software. Meu objetivo é contribuir para projetos inovadores, criar aplicações impactantes e me tornar um engenheiro de software de referência.
